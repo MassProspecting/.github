@@ -1,5 +1,9 @@
 ## Hi there 👋
 
+Here you can find all our open-source projects and documentation of the MassProspecting API.
+
+_this readme is still under construction_
+
 <!--
 
 **Here are some ideas to get you started:**
