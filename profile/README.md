@@ -1,3 +1,5 @@
+![MassProspecting - AI-Driven, Multi-Channel Outreach System](../assets/banner-facebook-group.png)
+
 ## 🚀 MassProspecting
 
 **( Just an AI-Driven, Multi-Channel Outreach System )** 🤖✨
