@@ -32,23 +32,11 @@ If you are part of the **MassProspecting Team**, helping us to develop this wond
 Introducing some of the features of MassProspecting.
 
 1. [MassProspecting Lead Scraping Features](#massprospecting-lead-scraping-features)
-   - [1. Lead Scraping Sources Overview](#1-lead-scraping-sources-overview)
 2. [Automation Rules for Lead Processing](#2-automation-rules-for-lead-processing)
-   - [2.1 Rule Management Overview](#21-rule-management-overview)
-   - [2.2 Creating and Editing Rules](#22-creating-and-editing-rules)
 3. [Unibox Communication Management](#3-unibox-communication-management)
-   - [3.1 Unified Inbox for All Channels](#31-unified-inbox-for-all-channels)
-   - [3.2 Tagging and Tracking](#32-tagging-and-tracking)
 4. [Marketplace for Sales Assistants](#4-marketplace-for-sales-assistants)
-   - [4.1 Renting Social Accounts](#41-renting-social-accounts)
-   - [4.2 Permissions and Features](#42-permissions-and-features)
 5. [Profiles Dashboard](#5-profiles-dashboard)
-   - [5.1 Profile List Overview](#51-profile-list-overview)
-   - [5.2 Managing Profiles](#52-managing-profiles)
 6. [Leads Management](#6-leads-management)
-   - [6.1 Lead Overview and Search Filters](#61-lead-overview-and-search-filters)
-   - [6.2 Tagging Leads for Better Organization](#62-tagging-leads-for-better-organization)
-
 
 ### 1. Lead Scraping Sources Overview
 
