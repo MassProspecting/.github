@@ -15,9 +15,9 @@ If you are a **User**:
 - [👥 Join Our Facebook Group](https://www.facebook.com/groups/massprospecting).
 - [🔗 Follow Us on LinkedIn](https://www.linkedin.com/company/massprospecting).
 
-If you are a **Developer** and want to create your own [integrations](https://github.com/MassProspecting/docs?tab=readme-ov-file#integrations):
+If you are a **Developer**:
 
-- [💻 Check out our SDK](https://github.com/MassProspecting/mass-sdk).
+- [💻 Check out our SDK](https://github.com/MassProspecting/mass-sdk) _(private access)_.
 - [🔌 Check out our API client](https://github.com/massprospecting/mass-client).
 - [⭐️ Follow MassProspecting on GitHub](https://github.com/MassProspecting).
 
