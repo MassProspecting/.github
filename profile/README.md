@@ -25,7 +25,8 @@ If you are part of the **MassProspecting Team**, helping us to develop this wond
 
 - [🛠️ Learn the MassProspecting Architecture](https://github.com/MassProspecting/docs/blob/main/internals/01-architecture.md).
 - [🖥️ Learn How to Install Your MassProspecting Environment](https://github.com/MassProspecting/docs/blob/main/internals/02-installation.md).
-
+- [🧩 Data Model](https://github.com/MassProspecting/docs/blob/main/internals/03-data-model.md).
+- [🧪 QA Operations](https://github.com/MassProspecting/docs/blob/main/internals/04-qa-operations.md).
 
 ## Features
 
