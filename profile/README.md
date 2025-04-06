@@ -10,7 +10,7 @@ MassProspecting is currently in private beta. 🛠️🔒
 
 If you are a **User**:
 
-- [🚀 Join the Waiting List Here](https://massprospecting.com/landing/soon).
+- [🚀 Try MassProspecting here](https://massprospecting.com).
 - [📚 Find Documentation](https://github.com/MassProspecting/docs).
 - [👥 Join Our Facebook Group](https://www.facebook.com/groups/massprospecting).
 - [🔗 Follow Us on LinkedIn](https://www.linkedin.com/company/massprospecting).
