@@ -4,14 +4,23 @@
 
 **( Just an AI-Driven, Multi-Channel Outreach System )** 🤖✨
 
-MassProspecting is currently in private beta. 🛠️🔒
+IMPORTANT: THIS DOCUMENTATION IS STILL ON PROCESS
+
+## Basic User Documentation
+
+1. [LinkedIn Feed Signals - Case of Success](./basic-users/linkedin-feed-signals.md)
+2. [Placing a Scraping Order](./basic-users/placing-a-scraping-order.md)
+3. [Check Your Orders](./basic-users/check-your-orders.md)
+4. [Download Your Leads](./basic-users/download-your-leads.md)
+5. [Using Personalization](./basic-users/using-personalization.md)
+6. [Affiliates Program](./basic-users/affiliates-program.md)
 
 ## 🌟 Where To Start?
 
-If you are a **User**:
+You you are getting started...
 
 - [🚀 Try MassProspecting here](https://massprospecting.com).
-- [📚 Find Documentation](https://github.com/MassProspecting/docs).
+- [📚 Find More Documentation](https://github.com/MassProspecting/docs).
 - [👥 Join Our Facebook Group](https://www.facebook.com/groups/massprospecting).
 - [🔗 Follow Us on LinkedIn](https://www.linkedin.com/company/massprospecting).
 
