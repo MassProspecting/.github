@@ -1,12 +1,10 @@
-![MassProspecting - AI-Driven, Multi-Channel Outreach System](../assets/banner-facebook-group.png)
-
 # 🚀 MassProspecting
 
 **( Just an AI-Driven, Multi-Channel Outreach System )** 🤖✨
 
 IMPORTANT: THIS DOCUMENTATION IS STILL ON PROCESS
 
-## Basic User Documentation
+## Basic Users Documentation
 
 1. [Placing a Scraping Order](./basic-users/placing-a-scraping-order.md)
 2. [Check Your Orders](./basic-users/check-your-orders.md)
@@ -14,7 +12,7 @@ IMPORTANT: THIS DOCUMENTATION IS STILL ON PROCESS
 4. [Using Personalization](./basic-users/using-personalization.md)
 5. [Affiliates Program](./basic-users/affiliates-program.md)
 
-## 🌟 Where To Start?
+## Advanced Users Documentation
 
 You you are getting started...
 
