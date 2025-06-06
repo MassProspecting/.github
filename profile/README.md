@@ -8,12 +8,11 @@ IMPORTANT: THIS DOCUMENTATION IS STILL ON PROCESS
 
 ## Basic User Documentation
 
-1. [LinkedIn Feed Signals - Case of Success](./basic-users/linkedin-feed-signals.md)
-2. [Placing a Scraping Order](./basic-users/placing-a-scraping-order.md)
-3. [Check Your Orders](./basic-users/check-your-orders.md)
-4. [Download Your Leads](./basic-users/download-your-leads.md)
-5. [Using Personalization](./basic-users/using-personalization.md)
-6. [Affiliates Program](./basic-users/affiliates-program.md)
+1. [Placing a Scraping Order](./basic-users/placing-a-scraping-order.md)
+2. [Check Your Orders](./basic-users/check-your-orders.md)
+3. [Download Your Leads](./basic-users/download-your-leads.md)
+4. [Using Personalization](./basic-users/using-personalization.md)
+5. [Affiliates Program](./basic-users/affiliates-program.md)
 
 ## 🌟 Where To Start?
 
