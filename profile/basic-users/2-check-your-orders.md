@@ -10,7 +10,7 @@ Each order box shows 3 key metrics:
 
 ![Order Statistics](../../assets/dashboard-01.png)
 
-- 🟣 Leads Discovered: Total number of posts matched by your filters.
+- 🟣 Leads Discovered: Total number of posts that showed up using your [LinkedIn search](#-view-the-linkedin-search).
 - 🟢 % Leads Processed: The percentage of discovered leads that have already been analyzed and enriched.
 - 🔵 Valid Emails After Filters: How many of those leads had valid emails and passed your filters (e.g. country, headcount, etc).
 
@@ -48,13 +48,13 @@ You can upload this file into your outreach tool — or import it back into Mass
 
 ## 🔗 View the LinkedIn Search
 
+The **LinkedIn search** is what you configured in the [step 1 of the new order placing](./1-placing-a-scraping-order.md#step-1--search-for-relevant-posts).
+
 Want to double-check the actual posts matched by your search?
 
 Click the 🔗 icon to open the original LinkedIn feed query in a new tab:
 
 ![LinkedIn Feed Link](../../assets/dashboard-04.png)
-
-This transparency helps you fine-tune your search keywords and filters for better results.
 
 ---
 

@@ -24,7 +24,7 @@ In this case:
 
 ## 2. ⚠️ Low Performance
 
-If the system detects your filters are yielding very few valid leads (e.g. valid emails), the order will be paused and you have to create a better performing order.
+If the system detects your filters are yielding very few valid leads (e.g. valid emails or leads who pass your filters), the order will be paused and you have to create a better performing order.
 
 ![Low Performance](../../assets/alerts-02.png)
 
@@ -36,11 +36,11 @@ This may happen when:
 
 To fix this:
 
-- Edit your order to use broader filters
+- [Place a new order](./1-placing-a-scraping-order.md) using broader filters
 - Use more common keywords
 - Expand your country or headcount filters
 
-Once improved, the system will automatically restart your order when performance improves.
+It is not possible to edit your existing order.
 
 ---
 

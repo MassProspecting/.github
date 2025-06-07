@@ -21,7 +21,7 @@ From the main dashboard, click the “Affiliates” button:
 
 ![Open Affiliate Panel](../../assets/affiliates-01.png)
 
-Your personal affiliate link will be shown and copied instantly:
+Your personal affiliate link will be shown and copied instantly when you click on it.
 
 ![Affiliate Link Copied](../../assets/affiliates-02.png)
 

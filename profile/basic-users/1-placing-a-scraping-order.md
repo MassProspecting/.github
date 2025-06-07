@@ -26,10 +26,6 @@ You can also filter by job title and industry to better target the authors of th
 
 ![Step 1 Filters by Job and Industry](../../assets/linkedin-feed-signals-03.png)
 
-This lets you find posts like:
-
-![Sample LinkedIn Post Found](../../assets/linkedin-feed-signals-09.png)
-
 ---
 
 ## Step 2 – Enrich with Data Points
@@ -40,15 +36,17 @@ MassProspecting appends extra information to each lead, such as:
 - Direct Phone Number ✅
 - Country & Company Headcount
 
-And it’s completely free.
+Appending of verified email address has not extra cost.
 
-![Step 2 Email Checkbox](../../assets/linkedin-feed-signals-06.png)
+Appending of direct phone nunbers will consime +2 additonal credits.
+
+![Step 2 Email Checkbox](../../assets/linkedin-feed-signals-04.png)
 
 ![Step 2 Phone Checkbox](../../assets/linkedin-feed-signals-05.png)
 
 You can refine your leads with additional filters like country or company size:
 
-![Step 2 Country and Headcount Filters](../../assets/linkedin-feed-signals-04.png)
+![Step 2 Country and Headcount Filters](../../assets/linkedin-feed-signals-06.png)
 
 ---
 
@@ -56,13 +54,11 @@ You can refine your leads with additional filters like country or company size:
 
 Using AI, MassProspecting creates a message for each lead based on their actual post.
 
-You can edit the script template before launching.
+MassProspecting will show a sample LinkedIn post that you can use to try your AI prompt for generating a personalized message.
 
-![Step 3 Custom Script Panel](../../assets/linkedin-feed-signals-07.png)
+![Step 3 Sample LinkedIn Post](../../assets/linkedin-feed-signals-07.png)
 
-Preview the original post and the AI-generated message side by side:
-
-![Step 3 Post + Prompt Editor](../../assets/linkedin-feed-signals-08.png)
+![Step 3 Prompt Editor](../../assets/linkedin-feed-signals-08.png)
 
 ---
 

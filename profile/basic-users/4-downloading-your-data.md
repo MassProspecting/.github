@@ -6,7 +6,7 @@ To download:
 
 1. Go to your dashboard
 2. Locate the order card
-3. Click the download icon 📥
+3. [Click the download icon](./2-check-your-orders.md#️-download-your-leads) 📥
 
 This file contains everything you need to run outbound campaigns, including:
 
@@ -46,7 +46,9 @@ Below is a breakdown of each column included in your download:
 
 ## Examples of Personalization Fields
 
-MassProspecting includes dynamic fields like:
+You requested personalisation merge-tags in the [step 3 of your new order placing](./1-placing-a-scraping-order.md#step-3--generate-a-personalized-script).
+
+Your CSV file includes dynamic fields like:
 
 - {ai:5-word summary of post}
 - {ai:10-word use-case}
@@ -54,7 +56,7 @@ MassProspecting includes dynamic fields like:
 
 These are shown in columns like:
 
-![AI Fields Example](../../assets/personalisation-01.png)
+![AI Fields Example](../../assets/personalisation-05.png)
 
 You can insert them into your outbound scripts using merge tags, e.g.:
 
