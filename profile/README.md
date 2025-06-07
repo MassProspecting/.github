@@ -2,10 +2,6 @@
 
 **( Just an AI-Driven, Multi-Channel Outreach System )** 🤖✨
 
-IMPORTANT: THIS DOCUMENTATION IS STILL ON PROCESS
-
-## Basic Users Documentation
-
 1. [Placing a Scraping Order](./basic-users/placing-a-scraping-order.md)
 2. [Check Your Orders](./basic-users/check-your-orders.md)
 3. [Download Your Leads](./basic-users/download-your-leads.md)
