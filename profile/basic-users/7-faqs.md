@@ -23,9 +23,9 @@ The number of leads you receive each day depends on:
 
 ### 🎁 How many leads will I get during the trial?
 
-During the $1 trial, you can receive up to 20 enriched leads.
+During the $1 trial, you receive up to 20 credits.
 
-Each lead will include a verified email, and optionally a phone number if your order requests it.
+The number of leads that you will receive depends if you have requested **valid email addresses** only (1 credit per lead) or **valid email addresses** and **direct phone numbers** (3 credits per lead).
 
 ---
 
