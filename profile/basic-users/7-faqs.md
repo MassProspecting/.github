@@ -2,6 +2,14 @@
 
 ---
 
+### 🔐 Should I connect my own LinkedIn account for scraping?
+
+No. MassProspecting provides built-in LinkedIn accounts for scraping, so you don’t need to connect or risk your personal account.
+
+This keeps your LinkedIn profile safe while still getting fresh, real-time data from the platform.
+
+---
+
 ### ❓ What is a credit?
 
 1 credit is consumed for each lead discovered that matches your order filters and includes a verified email address.
@@ -63,3 +71,4 @@ For example, someone posting about hiring, launching a new service, raising fund
 Yes — but only for 3 months.
 
 If credits go unused for more than 3 consecutive months, they will expire. Make sure to keep your scraping orders running so you make full use of your credits.
+
