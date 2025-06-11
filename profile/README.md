@@ -8,6 +8,7 @@
 4. [Downloading Your Data](./basic-users/4-downloading-your-data.md)
 5. [Using Personalization](./basic-users/5-using-personalization.md)
 6. [Affiliates Program](./basic-users/6-affiliates-program.md)
-7. [FAQs](./basic-users/7-faqs.md)
-8. [Internals](./basic-users/8-internals.md)
+7. [Life-Time Deal](./basic-users/7-ltd.md)
+8. [FAQs](./basic-users/8-faqs.md)
+9. [Internals](./basic-users/9-internals.md)
 
