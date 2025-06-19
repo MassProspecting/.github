@@ -58,5 +58,5 @@ These are shown in columns like:
 
 ![AI Fields Example](../../assets/personalisation-05.png)
 
-You can insert them into your outbound scripts using merge tags, e.g.:
+You can insert them into your outbound scripts using merge tags.
 
