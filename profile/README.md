@@ -2,6 +2,8 @@
 
 **( Just an AI-Driven, Multi-Channel Outreach System )** 🤖✨
 
+## Scraping Leads
+
 1. [Placing a Scraping Order](./basic-users/1-placing-a-scraping-order.md)
 2. [Check Your Orders](./basic-users/2-check-your-orders.md)
 3. [Order Alerts](./basic-users/3-order-alerts.md)
@@ -12,3 +14,6 @@
 8. [FAQs](./basic-users/8-faqs.md)
 9. [Internals](./basic-users/9-internals.md)
 
+## Sending Cold Emails
+
+1. [Connecting GMail Accounts](./cold-emails/1-gmail.md)
