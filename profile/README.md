@@ -14,9 +14,9 @@
 8. [FAQs](./basic-users/8-faqs.md)
 9. [Internals](./basic-users/9-internals.md)
 
-## Outreach Setup _(soon)_
+## Contacting Leads _(soon)_
 
-1. Renting Profiles to Other Users
+1. Renting **Sending Profiles**
 2. Connecting **GMail** Profiles
 3. Connecting **LinkedIn** Profiles
 4. Connecting **Facebook** Profiles
