@@ -14,6 +14,11 @@
 8. [FAQs](./basic-users/8-faqs.md)
 9. [Internals](./basic-users/9-internals.md)
 
-## Sending Cold Emails
+## Outreach Setup _(soon)_
 
-1. [Connecting GMail Accounts](./cold-emails/1-gmail.md)
+1. Renting Profiles to Other Users
+2. Connecting **GMail** Profiles
+3. Connecting **LinkedIn** Profiles
+4. Connecting **Facebook** Profiles
+5. Assigning Profiles to a Campaign
+
